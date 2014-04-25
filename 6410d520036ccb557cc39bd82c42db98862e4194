@@ -1,0 +1,3 @@
+A new macro, EXTENDF, was added.  This allows the user to add
+a formatted string to the end of an existing dynamically allocated
+string.
